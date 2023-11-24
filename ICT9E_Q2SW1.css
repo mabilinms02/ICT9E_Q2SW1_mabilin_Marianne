@@ -1,0 +1,17 @@
+body {
+	background-color: lightgoldenrodyellow;
+}
+
+#one {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table {
+	margin: auto;
+}
+
+td.form {
+	text-align: center;
+}
