@@ -9,9 +9,15 @@ body {
 }
 
 table {
+	border: thin 1px;
 	margin: auto;
+	margin-top: 1.5%;
 }
 
 td {
+	text-align: center;
+}
+
+h2, p {
 	text-align: center;
 }
